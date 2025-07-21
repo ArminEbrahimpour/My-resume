@@ -1,14 +1,17 @@
 package main
 
 import (
+	"html/template"
 	"net/http"
 
 	"MyResume/internal/handlers"
 )
 
 func main() {
+	tmpl := template.Must(template.ParseFiles("../../internal/templates/resume.gohtml"))
 
-	http.HandleFunc("/", handlers.IndexHandler)
+	resumeHandler := handlers.NewHandler(tmpl)
+	http.HandleFunc("/", resumeHandler.IndexHandler)
 
 	http.ListenAndServe(":8080", nil)
 }
