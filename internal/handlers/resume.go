@@ -22,7 +22,7 @@ func NewHandler(tmpl *template.Template) *ResumeHandler {
 func (h *ResumeHandler) IndexHandler(w http.ResponseWriter, r *http.Request) {
 
 	var page models.Page
-	data, err := os.ReadFile("app/static/projects.txt")
+	data, err := os.ReadFile("/app/static/projects.txt")
 	if err != nil {
 		fmt.Printf("reading projects file fialed : %v", err)
 		return
