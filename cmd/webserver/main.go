@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	tmpl := template.Must(template.ParseFiles("app/internal/templates/resume.gohtml"))
+	tmpl := template.Must(template.ParseFiles("MyResume/internal/template/resume.gohtml"))
 
 	resumeHandler := handlers.NewHandler(tmpl)
 	http.HandleFunc("/", resumeHandler.IndexHandler)
