@@ -1,0 +1,65 @@
+{
+"name":"Armin Ebrahimpour",
+ "projects": [
+    {
+      "title": "GoCopy",
+      "description": "A simple and efficient file copy tool written in Go with progress tracking",
+      "link": "https://github.com/ArminEbrahimpour/GoCopy"
+    },
+    {
+      "title": "pffuf",
+      "description": "Parallel version of ffuf (Fast web fuzzer) with enhanced performance",
+      "link": "https://github.com/ArminEbrahimpour/pffuf"
+    },
+    {
+      "title": "ScamSleuth",
+      "description": "Tool for detecting and analyzing phishing websites and online scams",
+      "link": "https://github.com/ArminEbrahimpour/ScamSleuth"
+    },
+    {
+      "title": "Recon-automation",
+      "description": "Automated reconnaissance toolkit for bug bounty and penetration testing",
+      "link": "https://github.com/ArminEbrahimpour/Recon-automation"
+    },
+    {
+      "title": "Advent-of-code",
+      "description": "My solutions to Advent of Code programming challenges",
+      "link": "https://github.com/ArminEbrahimpour/Advent-of-code"
+    },
+    {
+      "title": "CADS-lecture",
+      "description": "Course materials and code examples for Computer Architecture and Data Security lectures",
+      "link": "https://github.com/ArminEbrahimpour/CADS-lecture"
+    },
+    {
+      "title": "Attiny85_Digispark_Bad_usb",
+      "description": "Bad USB scripts and payloads for Digispark (ATTiny85) devices",
+      "link": "https://github.com/ArminEbrahimpour/Attiny85_Digispark_Bad_usb"
+    },
+    {
+      "title": "My-penetration-testing-methodology",
+      "description": "Personal penetration testing methodology and checklist",
+      "link": "https://github.com/ArminEbrahimpour/My-penetration-testing-methodology"
+    },
+    {
+      "title": "TelegramBot",
+      "description": "Custom Telegram bot with various utility functions",
+      "link": "https://github.com/ArminEbrahimpour/TelegramBot"
+    },
+    {
+      "title": "Terminal_Browser",
+      "description": "Lightweight web browser designed to run in terminal environments",
+      "link": "https://github.com/ArminEbrahimpour/Terminal_Browser"
+    },
+    {
+      "title": "subChie",
+      "description": "Subdomain enumeration and reconnaissance tool",
+      "link": "https://github.com/ArminEbrahimpour/subChie"
+    },
+    {
+      "title": "Sudoku",
+      "description": "Sudoku game and solver implementation in Python",
+      "link": "https://github.com/ArminEbrahimpour/Sudoku"
+    }
+  ]
+}
