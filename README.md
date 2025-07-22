@@ -1,7 +1,7 @@
 # resume_page
 
 
-## My Resume page built with standard library 
+## My Resume page built with standard library in golang
 
 ### want to check ? 
 
