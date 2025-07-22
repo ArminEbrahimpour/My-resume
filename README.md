@@ -5,5 +5,5 @@
 
 ### want to check ? 
 
-#### look at page : `[Me](https://rminebp-resume.up.railway.app)`
+#### look at page : [Me](https://rminebp-resume.up.railway.app)
 
