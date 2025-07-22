@@ -1,7 +1,7 @@
 # resume_page
 
 
-## My Resume page built using with standard library 
+## My Resume page built with standard library 
 
 ### want to check ? 
 
