@@ -2,6 +2,11 @@
 "name":"Armin Ebrahimpour",
  "projects": [
     {
+        "title": "OTP-service/user Management",
+        "description": "A simple otp-based authentication service with user management with pagination",
+        "link": "https://github.com/ArminEbrahimpour/OTP-service-userManagement"
+    },
+    {
       "title": "GoCopy",
       "description": "A simple and efficient file copy tool written in Go with progress tracking",
       "link": "https://github.com/ArminEbrahimpour/GoCopy"
